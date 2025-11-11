@@ -26,29 +26,28 @@ gcc questao_x.c -o questao_x && ./questao_x
 
 #### Captura de tela da questão
 
-[Q1](assets/Q1_arvore.png)
+![Q1](assets/Q1_arvore.png)
 
 #### Captura de tela dos resultados
 
-[Q1](assets/Q1_solucao.png)
+![Q1](assets/Q1_solucao.png)
 
 ### Questão 2
 
 #### Captura de tela da questão
 
-[Q2](assets/Q2_arvore.png)
+![Q2](assets/Q2_arvore.png)
 
 #### Captura de tela dos resultados
 
-[Q2](assets/Q2_solucao.png)
+![Q2](assets/Q2_solucao.png)
 
 ### Questão 3
 
 #### Captura de tela da questão
 
-[Q3](assets/Q3_arvore.png)
+![Q3](assets/Q3_arvore.png)
 
 #### Captura de tela dos resultados
 
-[Q2](assets/Q3
-_solucao.png)
+![Q3](assets/Q3_solucao.png)
