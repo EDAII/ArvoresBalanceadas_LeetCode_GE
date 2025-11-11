@@ -20,6 +20,10 @@ Compilador C: GCC ≥ 10 ou Clang ≥ 12
 
 gcc questao_x.c -o questao_x && ./questao_x
 
+## Entrega 2
+
+[Apresentação 3 YouTube](https://youtu.be/Fw-MiwX8u5E)
+
 ## Capturas de tela das questões feitas
 
 ### Questão 1
